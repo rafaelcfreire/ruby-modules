@@ -18,7 +18,8 @@ This project is for newcomers to [Ruby](https://www.ruby-lang.org/en/) language 
 
 ## Running our Modules in Terminal
 - Start the Ruby [REPL](http://ruby-doc.org/stdlib-2.0.0/libdoc/irb/rdoc/IRB.html) typing irb
-- Type $LOAD_PATH << '.'; to load the necessary modules
+- Type $LOAD_PATH << '.'; to load the necessary modules fotr the environment
+- Type require 'GenericUtils' to load our module
 - Just type the name of the module (GenericUtils in our case) then '.' and the name of the method you're looking for
 
 
