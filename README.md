@@ -4,7 +4,13 @@
   align="right"
 />
 
-# Ruby Modules
+#Ruby Modules
+* [What are Modules]
+  * [Namespaces]
+  * [Mixin]
+* [This Project]
+* [Running our Modules in Terminal]
+
 An introduction to Ruby Modules and mixins
 
 ## This Project
